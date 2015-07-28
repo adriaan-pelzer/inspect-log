@@ -1,4 +1,4 @@
-var inspect = require ( 'eyes' ).inspect ( { maxLength: 0 } );
+var inspect = require ( 'eyes' ).inspector ( { maxLength: 0 } );
 
 module.exports = function ( message ) {
     if ( typeof message === 'string' || typeof message === 'number' ) {
