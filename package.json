@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/adriaan-pelzer/inspect-log/issues"
   },
-  "homepage": "https://github.com/adriaan-pelzer/inspect-log#readme"
+  "homepage": "https://github.com/adriaan-pelzer/inspect-log#readme",
+  "dependencies": {
+    "eyes": "^0.1.8"
+  }
 }
