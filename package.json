@@ -1,6 +1,6 @@
 {
   "name": "inspect-log",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Combine eyes.inspector with console.log to provide pretty printing of objects, and normal printing of strings or numbers",
   "main": "inspect.js",
   "scripts": {
