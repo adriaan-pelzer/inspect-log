@@ -7,3 +7,7 @@ L ( new Date () );
 L ( function ( hallo ) { return { bye: hallo } } );
 L ( 12345 );
 L ( 1.234 );
+L ( false );
+L ( true );
+L ( null );
+L ( undefined );
